@@ -1,16 +1,27 @@
-### Hi there 👋
+🔊 Seja Bem vindo!👋
 
-<!--
-**saulor2d2/saulor2d2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá meu nome é **Saulo C.S Melo**  sou um grande entusiasta das áreas de dados e desenvolvimento WEB.
+- Ciências Contabéns 
+- Analise e desenvolvimento de sistemas
+- Pós-Graduando: controladoria; Marketing; Analise de dados.
+- Designer
+- Engineer front-end
+- Analista de Dados
+- 💬 82 99925-5305
+- 📫 Olho D'Água das Flores - AL
+- [Linkedin](http://https://www.linkedin.com/in/saulo-carvalho-dos-santos-melo-826077194/)
+- [Instagram](https://www.instagram.com/sauloc.smelo/)
+# Projeto-portal-propaganda
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+|WEB             |Análise de Dados               |Design                      |
+|----------------|-------------------------------|-----------------------------|
+|# Projeto-portal-propaganda|`Loading` |`Loading`            |
+|`Loading`     |`Loading`            |`Loading`           |
+|`Loading`        |`Loading`|`Loading`|
+
+
+
+
+
