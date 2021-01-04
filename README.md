@@ -17,7 +17,7 @@ Olá meu nome é **Saulo C.S Melo**  sou um grande entusiasta das áreas de dado
 
 |WEB             |Análise de Dados               |Design                      |
 |----------------|-------------------------------|-----------------------------|
-|[`Portal-Propaganda`](https://github.com/saulor2d2/Projeto-portal-propaganda)|[`Deshboard-Dolar`](https://github.com/saulor2d2/Projeto-Deshboard-Dolar) |`Loading`            |
+|[`Portal-Propaganda`](https://github.com/saulor2d2/Projeto-portal-propaganda)|[`Dashboard-Dolar`](https://github.com/saulor2d2/Projeto-Deshboard-Dolar) |`Loading`            |
 |`Loading`     |`Loading`            |`Loading`           |
 |`Loading`        |`Loading`|`Loading`|
 
