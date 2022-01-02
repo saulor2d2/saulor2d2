@@ -1,11 +1,6 @@
 🔊 Seja Bem vindo!👋
 
 Olá meu nome é **Saulo C.S Melo**  sou um grande entusiasta das áreas de dados e desenvolvimento WEB.
-- Ciências Contábeis
-- Analise e desenvolvimento de sistemas
-- Pós-Graduando: controladoria; Marketing; Analise de dados.
-- Designer
-- Engineer front-end
 - Analista de Dados
 - 💬 82 99925-5305
 - 📫 Olho D'Água das Flores - AL
